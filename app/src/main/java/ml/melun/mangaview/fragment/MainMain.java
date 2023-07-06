@@ -2,6 +2,7 @@ package ml.melun.mangaview.fragment;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -96,6 +97,7 @@ public class MainMain extends Fragment {
         TabLayout.Tab comicTab = tabLayout.newTab().setText("만화");
         TabLayout.Tab webtoonTab = tabLayout.newTab().setText("웹툰");
         TabLayout.Tab novelTab = tabLayout.newTab().setText("소설");
+        Log.i("site",p.getUrl());
         tabLayout.addTab(comicTab);
         tabLayout.addTab(webtoonTab);
         tabLayout.addTab(novelTab);

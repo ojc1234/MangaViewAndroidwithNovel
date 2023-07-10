@@ -3,7 +3,7 @@
 
 [![GitHub All Releases](https://img.shields.io/github/downloads/junheah/MangaViewAndroid/total?color=db49de&label=다운로드)](https://junheah.github.io/MangaViewAndroid/)
 ### [최신 버전 다운로드 (apk)](https://junheah.github.io/MangaViewAndroid/) ###
-
+![img.png](img.png)
 #
 [모든 릴리즈 한번에 보기](https://github.com/junheah/MangaViewAndroid/tree/master/releases_old)
 
